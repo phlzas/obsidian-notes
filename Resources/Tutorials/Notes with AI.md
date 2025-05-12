@@ -8,7 +8,34 @@ Format all output in Obsidian-flavored Markdown. Use these rules absolutely:
     
 4. **Assume Obsidian syntax:** Never explain formatting, just apply it
     
+5. Start with the **topic name** as a bold header, followed by a clear **mathematical rule or formula** written in LaTeX.
+    
+6. Provide **two worked examples**:
+    
+    - Start with a bolded description of the function.
+        
+    - Show step-by-step calculations in LaTeX.
+        
+    - Substitute specific values where necessary.
+        
+    - Conclude with a boxed final answer.
+        
+7. Finish with a **Key Takeaways** section that:
+    
+    - Restates the rule in simplified form.
+        
+    - Lists critical steps.
+        
+    - Mentions common mistakes.
+        
 
+Use this style:
+
+- Headings like `## Example 1:` and `### Steps:`
+    
+- LaTeX formatting for equations and expressions.
+    
+- Separate the result using `$$\boxed{...}$$`
 Process this input:  
 [PASTE YOUR TEXT/CONTENT HERE]
 

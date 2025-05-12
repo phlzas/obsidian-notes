@@ -1,4 +1,3 @@
-
 ``` markdown
 # [[YourSkill]] Income Generator
 

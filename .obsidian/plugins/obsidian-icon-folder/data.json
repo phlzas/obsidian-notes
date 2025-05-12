@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmPlus",
       "LiAirplay",
       "LiAlbum",
       "LiChartSpline",
-      "🔢",
-      "LiActivity"
+      "🔢"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "School/Physics": "LiActivity",
   "School/Pure Math": "🔢",
   "School/Mechanics": "LiChartSpline",
-  "School/Problem Solving": "LiAirplay"
+  "School/Problem Solving": "LiAirplay",
+  "School/Social Studies": "LiAlarmPlus"
 }

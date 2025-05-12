@@ -122,7 +122,7 @@ Customizable templates/worksheets available
 1. [[Roadmap Builder Template]]
 2. [[Knowledge Atom Template]]
 3. [[Connection Matrix Worksheet]]
-4. [[ 30-Day Crucible Planne]]
+4. [[Areas/personal 1/30-day crucible planne]]
 5. [[Monetization Canvas]]
 
 

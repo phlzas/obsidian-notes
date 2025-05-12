@@ -7,5 +7,3 @@ graph TD
   C --> D{{"💰 Income Stream"}}  
   ```
 *Edit using [Mermaid Live Editor](https://mermaid.live)*
-
- 

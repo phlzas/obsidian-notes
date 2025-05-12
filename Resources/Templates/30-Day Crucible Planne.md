@@ -1,4 +1,3 @@
-
 ``` markdown
 # [[Month]] Crucible Sprint
 

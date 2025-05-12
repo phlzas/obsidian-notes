@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6fa336206ef18d",
+        "id": "6704f6253a336fb2",
         "type": "tabs",
         "children": [
           {
-            "id": "bef368ec3fcfbac6",
+            "id": "0b8d9511d2afbf2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Personal/The Alchemist's Blueprint.md",
-                "mode": "source",
-                "source": false
+                "file": "Archives/imports/Pure Math - Exercises and solution 1 to 6 wheeler revision .pdf"
               },
-              "icon": "lucide-file",
-              "title": "The Alchemist's Blueprint"
+              "icon": "lucide-file-text",
+              "title": "Pure Math - Exercises and solution 1 to 6 wheeler revision"
             }
           }
         ]
@@ -205,49 +203,48 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "422cf50c56044e43",
+  "active": "0b8d9511d2afbf2f",
   "lastOpenFiles": [
-    "Excalidraw/test.md",
-    "School/Social Studies/test.md",
-    "School/Social Studies/tez.md",
-    "School/Social Studies",
-    "Personal/The Alchemist's Blueprint.md",
+    "Projects/Pure Math Exam/Study Notes.md",
+    "Archives/imports/Pure Math - Exercises and solution 1 to 6 wheeler revision .pdf",
+    "Archives/imports/Pure Math - Exercises and solution 1 to 6 wheeler revision  (1).pdf",
+    "Archives/imports/pure math second term wheeler.pdf",
+    "Areas/School/Pure Math/Indefinite Integration (Follow-up).md",
+    "Areas/School/Pure Math/Indefinite Integration.md",
+    "Areas/School/Pure Math/Equation of a Normal.md",
+    "Areas/School/Pure Math/Equation of a Tangent.md",
+    "Areas/School/Pure Math/Derivative of Trigonometric Functions (Follow-up).md",
+    "Areas/School/Pure Math/Derivative of Trigonometric Functions.md",
+    "Areas/School/Pure Math/Derivative of Composite Functions.md",
+    "personal/templates/30-day crucible planne.md",
+    "personal/templates",
+    "personal/30-day crucible planne.md",
+    "personal",
+    "Resources/Tutorials/Notes with AI.md",
+    "Areas/School/Pure Math/derivative of the product of two functions.md",
+    "Areas/School/Pure Math/Rules of the Differention.md",
+    "Projects/Dev Roadmap",
+    "Differentiation Rules.md",
+    "Areas/School/Pure Math/Derivative Of The Quotient Of Two Functions.md",
+    "Pure Math - Exercises and solution 1 to 6 wheeler revision.md",
+    "Personal/Strategic Analysis for CodeFuture Academy.md",
+    "Personal/CodeFuture Academy.md",
+    "School/Social Studies/الوحدة الرابعة الزراعة والصناعة والسياحة.md",
+    "الخامات.md",
+    "School/Social Studies/cool.md",
     "Personal/Notes with AI.md",
-    "TEST.md",
-    "School/Physics/Core Concepts for Revision.md",
+    "School/Social Studies/test.md",
+    "Personal/The Alchemist's Blueprint.md",
+    "Excalidraw/test.md",
+    "School/Social Studies",
     "obsidian-notes",
-    "School/Physics/Electric filed.md",
-    "School/Physics/Coulombs law.md",
-    "School/Physics/static electricity.md",
-    "School/Physics/Electrostatic induction.md",
-    "School/Physics/Temperature Dependence of Resistance.md",
-    "30-Day Crucible Planne.md",
-    "Monetization Canvas.md",
-    "Month.md",
-    "School/Physics/Capacitance.md",
-    "School/Physics/Dielectric Constant.md",
-    "Connection Matrix Worksheet.md",
-    "Knowledge Atom Template.md",
-    "Roadmap Builder Template.md",
     "Pasted image 20250308173723.png",
     "Pasted image 20250308173330.png",
     "Pasted image 20250308163714.png",
     "Pasted image 20250307211402.png",
-    "Excalidraw/Drawing 2025-05-06 22.05.32.excalidraw.md",
-    "School/Physics/Ohmic Resistance.md",
-    "2025-05-06.md",
-    "School/Physics/Energy Stored in a Capacitor.md",
-    "Electric Charge.md",
-    "School/Physics/Capacitors and  Ohmic Resistance.md",
     "School/Problem Solving",
     "templates",
     "Untitled 1.canvas",
-    "Excalidraw",
-    "Untitled.canvas",
-    "Personal",
-    "School/Pure Math/Untitled",
-    "School/Mechanics",
-    "School/Pure Math",
-    "School/Physics"
+    "Untitled.canvas"
   ]
 }
