@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6704f6253a336fb2",
+        "id": "849408ea08066db1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b8d9511d2afbf2f",
+            "id": "38fa1f0b55f03b11",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Archives/imports/Pure Math - Exercises and solution 1 to 6 wheeler revision .pdf"
+                "file": "Projects/Pure Math Exam/Study Notes.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Pure Math - Exercises and solution 1 to 6 wheeler revision"
+              "icon": "lucide-file",
+              "title": "Study Notes"
             }
           }
         ]
@@ -203,29 +205,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0b8d9511d2afbf2f",
+  "active": "422cf50c56044e43",
   "lastOpenFiles": [
+    "Archives/imports/stem 2 2022_2nd term   .pdf",
+    "Archives/imports/Physics wheelers G2.pdf",
+    "Archives/imports/Revision Physics Final.pptx",
+    "Archives/imports/W for Wheelers pdf.pdf",
+    "Archives/imports/Physics Questions.pdf",
+    "Archives/imports/Physics Quarter 3 we.pdf",
+    "Archives/imports/Revision for quarter 4.pdf",
+    "Archives/imports/Physics Laws 2 Secondary.pdf",
+    "Archives/imports/Revision on static electricity.pdf",
+    "Archives/imports/final_revision_physics_2025_sec_termHassan Hesham.pdf",
+    "Archives/imports/Revision Physics Arwa Ghandour .pdf",
     "Projects/Pure Math Exam/Study Notes.md",
-    "Archives/imports/Pure Math - Exercises and solution 1 to 6 wheeler revision .pdf",
-    "Archives/imports/Pure Math - Exercises and solution 1 to 6 wheeler revision  (1).pdf",
-    "Archives/imports/pure math second term wheeler.pdf",
+    "Areas/School/Pure Math/Derivative Of The Quotient Of Two Functions.md",
+    "Areas/School/Pure Math/Equation of a Tangent.md",
     "Areas/School/Pure Math/Indefinite Integration (Follow-up).md",
     "Areas/School/Pure Math/Indefinite Integration.md",
     "Areas/School/Pure Math/Equation of a Normal.md",
-    "Areas/School/Pure Math/Equation of a Tangent.md",
     "Areas/School/Pure Math/Derivative of Trigonometric Functions (Follow-up).md",
     "Areas/School/Pure Math/Derivative of Trigonometric Functions.md",
     "Areas/School/Pure Math/Derivative of Composite Functions.md",
     "personal/templates/30-day crucible planne.md",
-    "personal/templates",
     "personal/30-day crucible planne.md",
-    "personal",
     "Resources/Tutorials/Notes with AI.md",
     "Areas/School/Pure Math/derivative of the product of two functions.md",
     "Areas/School/Pure Math/Rules of the Differention.md",
-    "Projects/Dev Roadmap",
     "Differentiation Rules.md",
-    "Areas/School/Pure Math/Derivative Of The Quotient Of Two Functions.md",
     "Pure Math - Exercises and solution 1 to 6 wheeler revision.md",
     "Personal/Strategic Analysis for CodeFuture Academy.md",
     "Personal/CodeFuture Academy.md",
@@ -236,14 +243,10 @@
     "School/Social Studies/test.md",
     "Personal/The Alchemist's Blueprint.md",
     "Excalidraw/test.md",
-    "School/Social Studies",
-    "obsidian-notes",
     "Pasted image 20250308173723.png",
     "Pasted image 20250308173330.png",
     "Pasted image 20250308163714.png",
     "Pasted image 20250307211402.png",
-    "School/Problem Solving",
-    "templates",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
