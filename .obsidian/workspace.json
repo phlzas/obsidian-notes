@@ -11,10 +11,28 @@
             "id": "50709b31062dc49d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Skills/Coding/Problem Solving/Road Map/Data Structures & Algorithms Mastery Roadmap.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Data Structures & Algorithms Mastery Roadmap"
+            }
+          },
+          {
+            "id": "5c4273e9a763a4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Skills/Coding/Problem Solving/cycle-detection-techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cycle-detection-techniques"
             }
           }
         ]
@@ -74,11 +92,11 @@
         "currentTab": 2
       },
       {
-        "id": "b9d85bb7aa7fbde1",
+        "id": "f21a27ee443ad527",
         "type": "tabs",
         "children": [
           {
-            "id": "9fbad278600a7800",
+            "id": "25a420813321abb7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -201,35 +219,36 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "422cf50c56044e43",
+  "active": "50709b31062dc49d",
   "lastOpenFiles": [
+    "Areas/Skills/Coding/Problem Solving/Pointer Memory Mastery.md",
+    "Areas/Skills/Coding/Problem Solving/Road Map/Data Structures & Algorithms Mastery Roadmap.md",
+    "Areas/Skills/Coding/Problem Solving/backtracking-patterns.md",
+    "Areas/Skills/Coding/Problem Solving/database-indexing-algos.md",
+    "Areas/Skills/Coding/Problem Solving/advanced-graph-algos.md",
+    "Areas/Skills/Coding/Problem Solving/cycle-detection-techniques.md",
+    "Areas/Skills/Coding/Problem Solving/brute-force-optimization.md",
+    "Areas/Skills/Coding/Problem Solving/real-world-graph-problems.md",
+    "Areas/Skills/Coding/Problem Solving/doubly-linked-list-optimizations.md",
+    "Areas/Skills/Coding/Problem Solving/singly-linked-list-operations.md",
+    "Areas/Skills/Coding/Problem Solving/sliding-window-techniques.md",
+    "Areas/Skills/Coding/Problem Solving/recursion-vs-iteration.md",
+    "Areas/Skills/Coding/Problem Solving/dijkstra-algorithm-deep-dive.md",
+    "Areas/Skills/Coding/Problem Solving/Greedy Algorithm Forge.md",
+    "Areas/Skills/Coding/Problem Solving/sliding-window.md",
+    "Areas/Skills/Coding/Problem Solving/two-pointer-technique.md",
+    "Areas/Skills/Coding/Problem Solving/hashing-collision-resolution.md",
+    "Areas/Skills/Coding/Problem Solving/divide-and-conquer-strategies.md",
+    "Areas/Skills/Coding/Cycle Detection Mastery.md",
+    "Areas/Skills/Coding/Greedy Algorithm Forge.md",
+    "Areas/Skills/Coding/Problem Solving/array-vs-vector-analysis.md",
+    "Areas/Skills/Coding/Problem Solving/time-space-complexity.md",
+    "Areas/Skills/Coding/Problem Solving/Road Map",
     "Projects/Money making plan/Million_Dollar_Execution_Plans.md",
     "Projects/Strategic Analysis for CodeFuture Academy/CodeFuture Academy.md",
     "Areas/School/Mechanics/Dynamics Unit Revision.md",
-    "Areas/Skills/Coding/Problem Solving/dijkstra-algorithm-deep-dive.md",
-    "Areas/Skills/Coding/Problem Solving/two-pointer-technique.md",
     "Areas/Skills/Coding/Problem Solving/Data Structures & Algorithms Mastery Roadmap.md",
     "Areas/Skills/Coding/Problem Solving",
-    "Areas/School/Mechanics/Lesson 10 - Comparing Gravity Accelerations.md",
-    "Areas/School/Mechanics/Lesson 9 - Universal Gravitation Law.md",
-    "Areas/School/Mechanics/Lesson 8 - Third Law of Vertical Motion.md",
-    "Areas/School/Mechanics/Lesson 7 - Second Law of Vertical Motion.md",
-    "Areas/School/Mechanics/Lesson 6 - First Law of Vertical Motion.md",
-    "Areas/School/Mechanics/Lesson 5 - Average Velocity nth Second.md",
-    "Areas/School/Mechanics/Lesson 3 - Second Law of Uniform Acceleration.md",
-    "Areas/School/Mechanics/Lesson 4 - Third Law of Uniform Acceleration.md",
-    "Areas/School/Mechanics/Lesson 2 - First Law of Uniform Acceleration.md",
-    "Areas/School/Mechanics/Lesson 1 - Rectilinear Motion.md",
-    "Areas/School/Physics/Electric filed.md",
-    "Areas/School/Physics/Coulombs law.md",
-    "Areas/School/Physics/Electric Field Intensity.md",
-    "Areas/School/Physics/static electricity.md",
-    "Areas/School/Physics/Core Concepts for Revision.md",
-    "Areas/School/Physics/Current Intensity.md",
-    "Areas/School/Physics/Ohm's Law.md",
-    "Areas/School/Physics/Ohmic Resistance.md",
-    "Areas/School/Physics/Ohm's Law for Closed Circuit.md",
-    "Areas/School/Physics/Connections of Resistors.md",
     "Projects/Money making plan/Million Dollar Plan Conversation.markdown",
     "Projects/Money making plan",
     "Projects/New folder",
@@ -238,7 +257,6 @@
     "Archives/imports/stem 2 2022_2nd term   .pdf",
     "Archives/imports/Physics wheelers G2.pdf",
     "Archives/imports/Revision Physics Final.pptx",
-    "Archives/imports/W for Wheelers pdf.pdf",
     "Pasted image 20250308173723.png",
     "Pasted image 20250308173330.png",
     "Pasted image 20250308163714.png",

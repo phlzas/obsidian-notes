@@ -2,7 +2,7 @@
 ## 1. Foundational Concepts
 - [[time-space-complexity.md]]
 - [[recursion-vs-iteration.md]]
-- [[memory-management-pointers.md]]
+- [[Pointer Memory Mastery.md]]
 
 ## 2. Core Data Structures
 - [[array-vs-vector-analysis.md]]
