@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Skills/Coding/Problem Solving/Road Map/Data Structures & Algorithms Mastery Roadmap.md",
-                "mode": "preview",
+                "file": "Resources/Tutorials/master checklist for expert storytelling.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structures & Algorithms Mastery Roadmap"
+              "title": "master checklist for expert storytelling"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Skills/Coding/Problem Solving/cycle-detection-techniques.md",
+                "file": "Areas/Skills/Coding/Problem Solving/Road Map/Data Structures & Algorithms Mastery Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cycle-detection-techniques"
+              "title": "Data Structures & Algorithms Mastery Roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,14 +220,19 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "50709b31062dc49d",
+  "active": "5c4273e9a763a4c1",
   "lastOpenFiles": [
-    "Areas/Skills/Coding/Problem Solving/Pointer Memory Mastery.md",
+    "Areas/Skills/Coding/Problem Solving/Road Map/Decoding the Digital Engine.md",
     "Areas/Skills/Coding/Problem Solving/Road Map/Data Structures & Algorithms Mastery Roadmap.md",
+    "Projects/Dev Roadmap/plan/open-source-contribution.md",
+    "Projects/Dev Roadmap/Advanced-Developer-Path.md",
+    "Resources/Tutorials/programming project roadmap.md",
+    "Resources/Tutorials/master checklist for expert storytelling.md",
+    "Areas/Skills/Coding/Problem Solving/cycle-detection-techniques.md",
+    "Areas/Skills/Coding/Problem Solving/Pointer Memory Mastery.md",
     "Areas/Skills/Coding/Problem Solving/backtracking-patterns.md",
     "Areas/Skills/Coding/Problem Solving/database-indexing-algos.md",
     "Areas/Skills/Coding/Problem Solving/advanced-graph-algos.md",
-    "Areas/Skills/Coding/Problem Solving/cycle-detection-techniques.md",
     "Areas/Skills/Coding/Problem Solving/brute-force-optimization.md",
     "Areas/Skills/Coding/Problem Solving/real-world-graph-problems.md",
     "Areas/Skills/Coding/Problem Solving/doubly-linked-list-optimizations.md",
@@ -242,12 +248,7 @@
     "Areas/Skills/Coding/Cycle Detection Mastery.md",
     "Areas/Skills/Coding/Greedy Algorithm Forge.md",
     "Areas/Skills/Coding/Problem Solving/array-vs-vector-analysis.md",
-    "Areas/Skills/Coding/Problem Solving/time-space-complexity.md",
     "Areas/Skills/Coding/Problem Solving/Road Map",
-    "Projects/Money making plan/Million_Dollar_Execution_Plans.md",
-    "Projects/Strategic Analysis for CodeFuture Academy/CodeFuture Academy.md",
-    "Areas/School/Mechanics/Dynamics Unit Revision.md",
-    "Areas/Skills/Coding/Problem Solving/Data Structures & Algorithms Mastery Roadmap.md",
     "Areas/Skills/Coding/Problem Solving",
     "Projects/Money making plan/Million Dollar Plan Conversation.markdown",
     "Projects/Money making plan",
